@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jaydataScience-projects.
+- 👀 I’m interested in building my career as a Data Analyst.
+- 🌱 I’m currently learning Post Graduation Diploma in Data Science from International Institute of Information Technology Bangalore.
+- 💞️ I’m looking to collaborate on projects related to Data Analysis.
+- 📫 You can reach me through my email id jay.thakur.job.work@gmail.com or can message me on my contact number 8605601777.
